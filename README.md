@@ -1,2 +1,2 @@
 #  infosatc-lp-avaliativo-01
- Atividade avaliativa 01 da disciplina de linguagem de programação do curso técnico de informática SATC 2021
+ <img align="left" width="400" height="400" src="logo-horizontal.png">

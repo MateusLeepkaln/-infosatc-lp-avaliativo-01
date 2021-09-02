@@ -1,5 +1,5 @@
 #  infosatc-lp-avaliativo-01
- <img align="left" width="400" height="200" src="logo-horizontal.png">
+ <img align="left" width="300" height="150" src="logo-horizontal.png">
  <h3>Curso técnico de informática
  <br>
  Nome da disciplina: Lógica de programação
